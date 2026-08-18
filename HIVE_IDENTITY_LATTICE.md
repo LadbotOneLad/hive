@@ -32,3 +32,9 @@ LatticeNodeIndex=0
 * **Angular Speed Metric**       : 7.29211585791599E-05 rad/sec
 * **72-Degree Transition Window**: 17232.8181 seconds
 * **Rotation Tracking Anchor**    : 2cfbd3bde16f1eceb18d1fbbcbdf916c756cec89654b4c91fbcb7ef98e416b183782ad8072363ef5bb0b8129cb61b322911cb3feed8590808d35b84296e2f267f71a4f034526050e899dbf2623daaf2d3a9aaaf112766cb043c50e0386143f7869775c9c80e8858d7d5e12d649f55a13b6b2cd15e48ef5fa5afaf9bdddbae078
+
+## Real-World Earth Geodetic Rotation Profile
+* **True Sidereal Velocity**      : 465.101139616607 m/s
+* **Angular Speed Metric**       : 7.29211585791599E-05 rad/sec
+* **72-Degree Transition Window**: 17232.8181 seconds
+* **Rotation Tracking Anchor**    : b70467d5b31ab93930a981986ad585c370c917acd67ac22712280b0438afaec37510b9f9a1f715704b54807af86ad84ac425b1f532313145705c5b312b7e1f717abf2f51c049d3d701a19c6e395d3d6071227da18e3bf055749b9e51d54bfc4fb0152e7fd778a557289a05204cb654e47fde519e819dbe8eb312670d9785fe51
