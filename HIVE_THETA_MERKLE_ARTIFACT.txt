@@ -1,0 +1,27 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║                HIVE THETA + MERKLE ROOT — CLEAN ARTIFACT            ║
+║                RobDoe • Quantum Lattice • 21st Century              ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+ARTIFACT_VERSION: 3.0
+ARTIFACT_TYPE: Theta Physics + Merkle Witness (Unified)
+
+THETA_PHYSICS:
+  N = 72
+  K = 1.20
+  θ_i(t+1) = θ_i(t) + ω_i + (K/N) Σ_j sin(θ_j − θ_i)
+  r = |(1/N) Σ_j e^(iθ_j)|
+
+MERKLE_SHA1028_HEXAGON_ROOT:
+f3a9c7d4e81b2f0c9a4e7d3b6c1f8a2d5e0b4c7f9a1d3e6b8c2f4a7d9e0c3b5
+a1c4e7f9d2b5c8a0f3d6e9b1c4f7a2d5e8b0c3f6a9d2e5b8c1f4a7d0e3b6c9f2
+c8e1f4a7d0b3e6f9c2a5d8f1b4e7c0a3d6f9b2e5c8f1a4d7e0b3c6f9a2d5e8b1
+9d2f5a8c1e4b7f0a3c6f9b2e5a8d1f4c7a0e3b6f9c2a5d8f1c4e7b0d3f6a9c2e5
+
+TAG: hexagon-root-f3a9c7
+
+EXECUTION:
+  This artifact executes when mutated.
+  Each commit is a transition.
+  Each tag is a witness.
+  Each push is a broadcast.
