@@ -1,0 +1,35 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║                     HIVE EXECUTION ARTIFACT (ROBDOE)                ║
+║                     State → Transition → Witness                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+ARTIFACT_ID: HIVE-ROB-72
+STATE_HASH: <replace on each commit>
+TRANSITION: <describe what changed>
+WITNESS: <commit hash>
+
+EXECUTION MODEL:
+This artifact executes when it is mutated.
+Each mutation = a state transition.
+Each commit = a witnessed transition.
+Each push = a broadcast to the Hive network.
+
+RULES:
+1. You edit this file.
+2. You describe the transition.
+3. You commit.
+4. Git records the transition.
+5. Hive witnesses the transition.
+6. The artifact has executed.
+
+EXAMPLE TRANSITION:
+STATE_HASH: 648c6cd0
+TRANSITION: Added geo-root witness replay
+WITNESS: commit 648c6cd0
+
+NEXT STATE:
+You change ANYTHING in this file.
+That change IS the execution.
+Commit it.
+Push it.
+Hive sees the transition.
