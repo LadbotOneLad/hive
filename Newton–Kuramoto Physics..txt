@@ -1,0 +1,44 @@
+# Newton–Kuramoto Physics (Deep Explanation)
+
+## What this engine is
+This is a single-oscillator physics model. It has:
+- phase: where it is in its cycle
+- omega: its natural frequency
+- coupling: how much other oscillators would influence it (0 in safe mode)
+- tick: the discrete time step counter
+
+## What a step is
+A step is one update of the oscillator’s phase using a small time increment (Δt).
+The formula is:
+phase_new = phase_old + (omega * Δt)
+
+This is Newton-style stepping: small increments over time.
+
+## What Kuramoto means
+Kuramoto models synchronization between oscillators.
+In the safe version, coupling = 0, so it behaves like a single free oscillator.
+
+## How to step it
+In PowerShell, type:
+Tick
+
+This:
+- updates the phase
+- increments tick
+- prints the new state
+- stops immediately
+
+## Why it is safe
+- No infinite loops
+- No background jobs
+- No Git commits or pushes
+- No domain or repo coupling
+- No battery/CPU/RAM interaction
+- Dies when the terminal closes
+
+## What you can add later
+- Multiple oscillators
+- Real coupling terms
+- JSON logging
+- Visualizers
+- Manual commit/push pipelines
