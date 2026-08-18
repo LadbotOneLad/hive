@@ -44,3 +44,8 @@ LatticeNodeIndex=0
 * **Arcsecond Displacement**  : 20000"
 * **Target Lattice Element**  : Node Index [0] (7.716% Segment Completion)
 * **Stratal Anchor Hash**     : 523638e1fa31747b021e5eb1fa9e77ddd63490f...
+
+## 6-Month Precessional Horizon Forecast (Feb 2027)
+* **Target Precession Angle**  : 0.368055555555555 Degrees
+* **6-Month Delta Shift**     : +25.0" Arcseconds
+* **Forecast Horizon Anchor**  : b9c5ca830b30323f5302e9e4c0e7a07595a220be7836f88122dae2f72bdf349a2ff1b9ef7fdc2c14d09a3e4101bade3a6f4969dbe1abed51ba430aa8fe8497147c8d9ad64ffc562e7d7aeaf4f9ddaf69ca6259fd429cf8c2f61e6004b206fbafaed3cfa4bc56bae5937d813e1bb01782f5accb076f4ff5e1732bf310f00155b6
